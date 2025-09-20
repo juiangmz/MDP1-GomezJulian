@@ -1,0 +1,4 @@
+C:\Users\julianegomez\Documents\SharpDevelop Projects\MDPI\clase4\bin\Debug\clase4.exe
+C:\Users\julianegomez\Documents\SharpDevelop Projects\MDPI\clase4\bin\Debug\clase4.pdb
+C:\Users\julianegomez\Documents\SharpDevelop Projects\MDPI\clase4\obj\Debug\clase4.exe
+C:\Users\julianegomez\Documents\SharpDevelop Projects\MDPI\clase4\obj\Debug\clase4.pdb

@@ -1,0 +1,5 @@
+C:\Users\julianegomez\Documents\SharpDevelop Projects\MDPI\MDPI\bin\Debug\MDPI.exe
+C:\Users\julianegomez\Documents\SharpDevelop Projects\MDPI\MDPI\bin\Debug\MDPI.pdb
+C:\Users\julianegomez\Documents\SharpDevelop Projects\MDPI\MDPI\obj\Debug\MDPI.csprojResolveAssemblyReference.cache
+C:\Users\julianegomez\Documents\SharpDevelop Projects\MDPI\MDPI\obj\Debug\MDPI.exe
+C:\Users\julianegomez\Documents\SharpDevelop Projects\MDPI\MDPI\obj\Debug\MDPI.pdb

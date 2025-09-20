@@ -1,0 +1,10 @@
+C:\Users\julianegomez\Documents\SharpDevelop Projects\MDPI\MDPI\bin\Debug\clase1.exe
+C:\Users\julianegomez\Documents\SharpDevelop Projects\MDPI\MDPI\bin\Debug\clase1.pdb
+C:\Users\julianegomez\Documents\SharpDevelop Projects\MDPI\MDPI\obj\Debug\clase1.csprojResolveAssemblyReference.cache
+C:\Users\julianegomez\Documents\SharpDevelop Projects\MDPI\MDPI\obj\Debug\clase1.exe
+C:\Users\julianegomez\Documents\SharpDevelop Projects\MDPI\MDPI\obj\Debug\clase1.pdb
+C:\Users\julianegomez\Documents\SharpDevelop Projects\MDPI\clase1\bin\Debug\clase1.exe
+C:\Users\julianegomez\Documents\SharpDevelop Projects\MDPI\clase1\bin\Debug\clase1.pdb
+C:\Users\julianegomez\Documents\SharpDevelop Projects\MDPI\clase1\obj\Debug\clase1.csprojResolveAssemblyReference.cache
+C:\Users\julianegomez\Documents\SharpDevelop Projects\MDPI\clase1\obj\Debug\clase1.exe
+C:\Users\julianegomez\Documents\SharpDevelop Projects\MDPI\clase1\obj\Debug\clase1.pdb
