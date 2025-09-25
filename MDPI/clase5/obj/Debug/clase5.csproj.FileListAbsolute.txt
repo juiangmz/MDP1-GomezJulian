@@ -1,0 +1,5 @@
+C:\Users\julianegomez\Documents\SharpDevelop Projects\MDPI\clase5\bin\Debug\clase5.exe
+C:\Users\julianegomez\Documents\SharpDevelop Projects\MDPI\clase5\bin\Debug\clase5.pdb
+C:\Users\julianegomez\Documents\SharpDevelop Projects\MDPI\clase5\obj\Debug\clase5.csprojResolveAssemblyReference.cache
+C:\Users\julianegomez\Documents\SharpDevelop Projects\MDPI\clase5\obj\Debug\clase5.exe
+C:\Users\julianegomez\Documents\SharpDevelop Projects\MDPI\clase5\obj\Debug\clase5.pdb

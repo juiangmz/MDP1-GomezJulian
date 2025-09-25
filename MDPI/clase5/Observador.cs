@@ -1,0 +1,18 @@
+﻿/*
+ * Created by SharpDevelop.
+ * User: julianegomez
+ * Date: 11/9/2025
+ * Time: 17:57
+ * 
+ * To change this template use Tools | Options | Coding | Edit Standard Headers.
+ */
+using System;
+
+namespace clase5
+{
+	//Ejercicio 12
+	public interface Observador
+	{
+		void actualizar(Observado o);
+	}
+}
